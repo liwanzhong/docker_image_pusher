@@ -1,1 +1,2 @@
 python:3.11.6-slim-bullseye
+node:18.19.0-alpine
