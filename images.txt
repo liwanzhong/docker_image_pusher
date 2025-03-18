@@ -1,1 +1,1 @@
-synesthesiam/opentts:zh
+synesthesiam/opentts:all
