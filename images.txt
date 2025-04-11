@@ -1,1 +1,1 @@
-jhao104/proxy_pool
+python:3.9-slim
