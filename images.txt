@@ -1,1 +1,1 @@
-docker pull jhao104/proxy_pool
+jhao104/proxy_pool
