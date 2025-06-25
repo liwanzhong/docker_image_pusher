@@ -1,1 +1,4 @@
-python:3.9-slim
+mysql:5.7
+redis:alpine
+crmeb_php
+nginx:alpine
