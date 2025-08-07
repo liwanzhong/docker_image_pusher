@@ -1,1 +1,1 @@
-phpdockerio/php:7.4-fpm
+node:16.20-alpine3.18
