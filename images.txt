@@ -1,1 +1,1 @@
-node:16.20-alpine3.18
+mysql:8.0.32
