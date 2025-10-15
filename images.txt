@@ -1,1 +1,1 @@
-islandora/activemq:6
+rabbitmq:3.9-management
