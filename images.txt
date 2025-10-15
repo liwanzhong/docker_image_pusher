@@ -1,1 +1,1 @@
-openjdk:17
+bellsoft/liberica-openjdk-alpine:13
