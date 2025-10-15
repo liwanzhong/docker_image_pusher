@@ -1,1 +1,1 @@
-islandora/activemq
+islandora/activemq:6
