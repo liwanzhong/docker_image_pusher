@@ -1,13 +1,1 @@
-supabase/studio:2025.10.20-sha-5005fc6
-kong:2.8.1
-supabase/gotrue:v2.180.0
-postgrest/postgrest:v13.0.7
-supabase/realtime:v2.56.0
-supabase/storage-api:v1.28.1
-darthsim/imgproxy:v3.8.0
-supabase/postgres-meta:v0.93.0
-supabase/edge-runtime:v1.69.14
-supabase/logflare:1.22.6
-supabase/postgres:15.8.1.085
-timberio/vector:0.28.1-alpine
-supabase/supavisor:2.7.3
+postgres:17.6
