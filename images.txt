@@ -1,1 +1,2 @@
-supabase/postgres:17.6.1.038
+rust:1.85.0-alpine3.20
+alpine:3.21.0
