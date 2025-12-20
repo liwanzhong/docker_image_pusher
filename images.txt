@@ -1,1 +1,1 @@
-rust:alpine3.23
+johngong/anki-sync-server:25.09.2
