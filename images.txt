@@ -1,1 +1,1 @@
-rust:alpine3.22
+rust:alpine3.23
