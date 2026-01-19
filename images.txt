@@ -1,1 +1,10 @@
-johngong/anki-sync-server:25.09.2
+supabase/studio:2025.11.25-sha-8de52c4
+kong:2.8.1
+nginx:alpine
+supabase/gotrue:v2.183.0
+postgrest/postgrest:v13.0.7
+supabase/realtime:v2.68.0
+supabase/storage-api:v1.32.0
+darthsim/imgproxy:v3.8.0
+supabase/postgres-meta:v0.93.1
+supabase/postgres:15.8.1.085
