@@ -1,4 +1,8 @@
-medplum/medplum-app:latest
-medplum/medplum-server:latest
-redis:7
-postgres:16
+mysql:8.0.30
+redis:7.0.4
+elasticsearch:7.17.19
+kibana:7.17.19
+logstash:7.17.19
+apache/rocketmq:4.9.6
+apacherocketmq/rocketmq-dashboard:1.0.0
+xuxueli/xxl-job-admin:2.3.0
