@@ -1,8 +1,2 @@
-mysql:8.0.30
-redis:7.0.4
-elasticsearch:7.17.19
-kibana:7.17.19
-logstash:7.17.19
-apache/rocketmq:4.9.6
-apacherocketmq/rocketmq-dashboard:1.0.0
-xuxueli/xxl-job-admin:2.3.0
+minio/minio:RELEASE.2022-07-08T00-05-23Z
+nginx:1.19.2-alpine
